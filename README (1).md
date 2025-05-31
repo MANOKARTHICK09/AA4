@@ -1,5 +1,7 @@
 
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
+<H4>NAME:MANOKARTHICK</H4>
+<H4>REGISTER NO:212222230077</H4>
 
 ## Aim:
 
